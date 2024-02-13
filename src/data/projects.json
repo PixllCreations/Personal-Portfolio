@@ -22,21 +22,5 @@
     "skills": ["React", "Express", "Node"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
-  },
-  {
-    "title": "Placeholder",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
-  },
-  {
-    "title": "Placeholder",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
   }
 ]
